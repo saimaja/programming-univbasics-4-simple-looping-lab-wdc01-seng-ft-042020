@@ -5,4 +5,5 @@ def loop_message_five_times(message)
 end
 
 def output_array(array)
-  array.each {
+  array.each {|i| puts i}
+end
