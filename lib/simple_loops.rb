@@ -5,6 +5,6 @@ def loop_message_five_times(message)
 end
 
 def loop_message_n_times(message, integer)
-  while i do 
+  while integer do 
     puts message
 end
