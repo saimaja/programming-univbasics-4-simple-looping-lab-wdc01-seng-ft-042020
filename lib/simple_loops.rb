@@ -7,3 +7,8 @@ end
 def output_array(array)
   array.each {|i| puts i}
 end
+
+def return_string_array(array)
+  array.each {|i| puts i.toString}
+end
+  
